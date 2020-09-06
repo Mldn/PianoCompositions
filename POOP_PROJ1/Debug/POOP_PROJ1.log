@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\mladen\source\repos\poop_proj1\poop_proj1\trajanje.h(57): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\mladen\source\repos\poop_proj1\poop_proj1\main.cpp(1158): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\mladen\source\repos\poop_proj1\poop_proj1\main.cpp(369): warning C4101: 'e': unreferenced local variable
+c:\users\mladen\source\repos\poop_proj1\poop_proj1\main.cpp(510): warning C4101: 'q': unreferenced local variable
+c:\users\mladen\source\repos\poop_proj1\poop_proj1\kompozicija.h(35): warning C4715: 'Kompozicija::getLinijskiSistem': not all control paths return a value
+  POOP_PROJ1.vcxproj -> C:\Users\Mladen\source\repos\POOP_PROJ1\Debug\POOP_PROJ1.exe
